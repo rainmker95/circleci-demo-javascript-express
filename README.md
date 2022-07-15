@@ -2,6 +2,7 @@
 
 This project was built from a MERN Starter kit (original URLs broken). Discussions still [active here](https://hashnode.com/n/mern). MERN is Mongo, Express, React and NodeJS.
 
+
 See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/2.0/language-javascript/).
 
 ## Quickstart
@@ -12,6 +13,8 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
   cd your_new_app
   npm install
   npm start
+  echo hello
+ 
 ```
 
 **Note : Please make sure your MongoDB is running.** For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/). Also `npm3` is required to install dependencies properly.
